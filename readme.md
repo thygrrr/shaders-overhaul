@@ -20,8 +20,6 @@ After
 ------
 ![Screenshot](screenshots/overhauled.jpg?raw=true "with Overhaul")
 
-*(this screenshot is from 1.0.0, in 1.4.0 the water has a bit more dark blues)*
-
 Building
 ---------
 Included is a simple .aip for [Advanced Installer](https://www.advancedinstaller.com). It may be obsolete by now.
