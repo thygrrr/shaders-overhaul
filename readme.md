@@ -24,6 +24,8 @@ After
 ------
 ![Screenshot](screenshots/overhauled.jpg?raw=true "Overhauled")
 
+Note: *Shader's Overhaul, Improved will not turn your French 'van Hoorn' Snow into a Spanish 'Mediator' Cutter, promised!*
+
 Building
 ---------
 Included is a simple .aip for [Advanced Installer](https://www.advancedinstaller.com). It may be obsolete by now. All it does is overwrite the ```viewspaceOcean.hlsl``` shader in the games's ```shaders_fx``` folder.
