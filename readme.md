@@ -18,11 +18,11 @@ If you Update PotBS, BitRaider may overwrite this file. In case it stops working
 
 Before
 -------
-![Screenshot](screenshots/normal.jpg?raw=true "with Overhaul")
+![Screenshot](screenshots/normal.jpg?raw=true "Original")
 
 After
 ------
-![Screenshot](screenshots/overhauled.jpg?raw=true "with Overhaul")
+![Screenshot](screenshots/overhauled.jpg?raw=true "Overhauled")
 
 Building
 ---------
