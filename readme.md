@@ -7,7 +7,7 @@ This is a simple mod. It is a replacement Water Shader for the Age of Sail MMORP
 * Changes Open Seas Water (primarily)
 * Changes Avcom and Port Water (slightly, usually for the better as well)
 
-Play the Game at [BurningSea.com](https://play.burningsea.com)
+Come play the Game at [BurningSea.com](https://play.burningsea.com) and sink me on Roberts (any French named Rénardblanc) and Antigua (any Spaniard named Herradura)
 
 Installing
 ----------
