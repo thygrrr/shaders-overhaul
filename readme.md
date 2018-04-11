@@ -2,7 +2,7 @@ Shader's Overhaul, Improved
 ===========================
 (aka Shader's Overhaul, Rough)
 
-This is a simple mod. It is a replacement Water Shader for Pirates of the Burning Sea, by Portalus Games.
+This is a simple mod. It is a replacement Water Shader for the Age of Sail MMORPG +Pirates of the Burning Sea+.
 
 Play the Game at [BurningSea.com](https://play.burningsea.com)
 
