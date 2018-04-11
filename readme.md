@@ -4,7 +4,11 @@ Shader's Overhaul, Improved
 
 This is a simple mod. It is a replacement Water Shader for the Age of Sail MMORPG **Pirates of the Burning Sea.**
 
-Play the Game at [BurningSea.com](https://play.burningsea.com)
+* Changes Open Seas Water (primarily)
+* Changes Avcom and Port Water (slightly)
+* Changes Login and Avatar Screen Water (slightly)
+
+Come play the Game at [BurningSea.com](https://play.burningsea.com) and sink me on Roberts (any French named Rénardblanc) and Antigua (any Spaniard named Herradura)
 
 Installing
 ----------
