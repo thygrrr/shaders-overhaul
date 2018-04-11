@@ -2,7 +2,7 @@ Shader's Overhaul, Improved
 ===========================
 (aka Shader's Overhaul, Rough)
 
-This is a simple mod. It is a replacement Water Shader for Pirates of the Burning Sea, by Portalus Games.
+This is a simple mod. It is a replacement Water Shader for the Age of Sail MMORPG **Pirates of the Burning Sea.**
 
 Play the Game at [BurningSea.com](https://play.burningsea.com)
 
@@ -22,4 +22,4 @@ After
 
 Building
 ---------
-Included is a simple .aip for [Advanced Installer](https://www.advancedinstaller.com). It may be obsolete by now.
+Included is a simple .aip for [Advanced Installer](https://www.advancedinstaller.com). It may be obsolete by now. All it does is overwrite the ```viewspaceOcean.hlsl``` shader in the games's ```shaders_fx``` folder.
